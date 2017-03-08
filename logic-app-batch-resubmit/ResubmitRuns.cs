@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace logic_app_batch_resubmit
 {
-    public class Class1
+    class ResubmitRuns
     {
+        
     }
 }
